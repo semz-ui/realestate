@@ -1,4 +1,4 @@
-import React from "react";
+
 import LandingPage from "./LandingPage";
 import FeaturedCategories from "./FeaturedCategories";
 import { Cards } from "@/components/Cards";
